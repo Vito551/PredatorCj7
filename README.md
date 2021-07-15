@@ -10,7 +10,7 @@
 ![Screenshot_20210715-133701_Termux](https://user-images.githubusercontent.com/81049859/125833240-77857864-c904-4525-b4ff-30eb118d7b04.png)
 
 - Remake Lite de :
-- [Predator-Theme](https://github.com/tony23x/Predator-Theme) By: Tony23x
+- [Predator-Theme](https://github.com/tony23x/Predator-Theme) by Tony23x
 
 ## PredatorCj7 :
 * Personaliza **Termux** con shell ZSH.
