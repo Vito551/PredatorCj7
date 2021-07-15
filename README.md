@@ -36,8 +36,6 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` gem install lolcat `
 
-* ` apt install pv `
-
 * ` git clone https://github.com/Juliocj7/PredatorCj7 `
 
 * ` cd PredatorCj7 `
