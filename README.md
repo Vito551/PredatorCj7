@@ -10,11 +10,12 @@
 ![Screenshot_20210715-133701_Termux](https://user-images.githubusercontent.com/81049859/125833240-77857864-c904-4525-b4ff-30eb118d7b04.png)
 
 
-## MsfCj7 :
-* Instala **Metasploit** correctamente y sin errores.
-* Crea automáticamente tus **payloads**.
-* Crea automáticamente una **persistencia**.
-* Aprende un par de **guías útiles**.
+## PredatorCj7 :
+* Personaliza **Termux** con shell ZSH.
+* **Autocompletado** de comandos.
+* **Teclas, traductor y comandos** extras integrados.
+* Entrar a un **directorio** con solo escribir su nombre.
+* ...y mucho más!!!
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
@@ -35,13 +36,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` apt install pv `
 
-* ` git clone https://github.com/Juliocj7/MsfCj7 `
+* ` git clone https://github.com/Juliocj7/PredatorCj7 `
 
-* ` cd MsfCj7 `
+* ` cd PredatorCj7 `
 
-* ` chmod 777 MsfCj7 `
+* ` chmod 777 PredatorCj7 `
 
-* ` bash MsfCj7 `
+* ` bash PredatorCj7 `
 
 # --------------------
 
