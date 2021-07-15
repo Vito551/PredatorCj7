@@ -40,7 +40,9 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` cd PredatorCj7 `
 
-* ` chmod 777 PredatorCj7 `
+* ` chmod +x * `
+
+* ` bash Instalador `
 
 * ` bash PredatorCj7 `
 
