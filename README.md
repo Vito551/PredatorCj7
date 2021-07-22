@@ -36,9 +36,9 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` chmod +x * `
 
-* ` bash Instalador `
+* ` ./Instalador `
 
-* ` bash PredatorCj7 `
+* ` ./PredatorCj7 `
 
 # --------------------
 
