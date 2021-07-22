@@ -17,6 +17,7 @@
 * **Autocompletado** de comandos.
 * **Teclas, traductor y comandos** extras integrados.
 * Entrar a un **directorio** con solo escribir su nombre.
+* Se usuario root (FakeRoot).
 * ...y mucho más!!!
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
