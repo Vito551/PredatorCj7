@@ -19,6 +19,7 @@
 * Entrar a un **directorio** con solo escribir su nombre.
 * Se usuario root (FakeRoot).
 * ...y mucho más!!!
+* Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
