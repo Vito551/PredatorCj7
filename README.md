@@ -3,7 +3,7 @@
 ## Menú Principal :
 ![Screenshot_20210818-223941_Termux](https://user-images.githubusercontent.com/81049859/129999207-4851417f-f4a1-49f3-8547-3f4ec8aef89d.png)
 
-
+## Menú Secundario :
 
 ## Termux Personalizado :
 ![Screenshot_20210715-133701_Termux](https://user-images.githubusercontent.com/81049859/125833240-77857864-c904-4525-b4ff-30eb118d7b04.png)
